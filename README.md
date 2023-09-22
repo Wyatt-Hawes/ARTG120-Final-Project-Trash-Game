@@ -1,5 +1,5 @@
 # Disposable
-#### [Playable Link](https://metatoshi.itch.io/disposable)
+#### [Playable Itch.io Link](https://metatoshi.itch.io/disposable)
 
 - A game that was made in collaboration with three other teammates
 - We worked through the challenge of learning an entirely new game 
