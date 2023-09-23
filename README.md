@@ -1,13 +1,13 @@
 # Disposable
 #### [Playable Itch.io Link](https://metatoshi.itch.io/disposable)
 
-- A game that was made in collaboration with three other teammates with varying skillsets
-- We worked through the challenge of learning an entirely new game 
-engine and programming language
-- Managed a production timeline which included storyboarding, prototyping, task deligation, 
+- A game that was made in collaboration with three other teammates with varying skill sets.
+- We worked through the challenge of learning an entirely new game
+engine and programming language.
+- Managed a production timeline which included storyboarding, prototyping, task delegation, 
 and weekly progress reports.
 - The entire project was made in three weeks.
-- In the project I was a Programmer. I was responsible for the UI/UX, Mechanics, Level and Upgrade Design, and Debugging
+- In the project, I was a Programmer. I was responsible for the UI/UX, Mechanics, Level and Upgrade Design, and Debugging.
 
 _______________________________________________________
 
